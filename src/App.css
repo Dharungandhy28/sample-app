@@ -1,5 +1,51 @@
 .App {
-  text-align: center;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container {
+  /* height: 550px; */
+  width: 350px;
+  padding: 50px;
+}
+.poster {
+  height: 350px;
+  width: 250px;
+  border-radius: 10px;
+}
+.poster:hover {
+  box-shadow: -1px 9px 24px -10px rgb(0 0 0 / 75%);
+  transition: all 0.3s;
+}
+.fa-star {
+  color: orange;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  font-weight: bolder;
+}
+.review-sec {
+  padding-top: 20px;
+  height: 300px;
+}
+@media screen and (max-width: 1024px) {
+  .App {
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-overflow: inherit;
+  }
+  .container {
+    height: 700px;
+    width: 350px;
+    padding: 50px;
+  }
 }
 
 .App-logo {
