@@ -28,6 +28,20 @@ function App() {
         "Vandiyathevan sets out to cross the Chola land to deliver a message from the Crown Prince Aditha Karikalan. Kundavai attempts to establish political peace as vassals and petty chieftains plot against the throne. Unrest grips the land as a long-tailed comet arrives, signalling a time of turmoil.",
     },
     {
+      name: "Asuran",
+      poster: "https://1847884116.rsc.cdn77.org/tamil/gallery/movies/asuran/main.jpg",
+      rating: "8.4",
+      review:
+        "Asuran it is a crime based of two family and it turns into two village fight for poor family and rich family it is good to watch it have sentimants actions and fast moving movies and it is a caste related movie.",
+    },
+    {
+      name: "Kaidhi",
+      poster: "https://gumlet.assettype.com/nationalherald%2F2019-10%2F337a7751-e25e-4f91-9b33-cb2785f6f4f1%2FKarthi_Kaithi.jpg?rect=0%2C27%2C700%2C394&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+      rating: "8.5",
+      review:
+        "Kaidhi it is a crime based story which is also interesting to watch, it is full of drugs and kidnaps and completely based on flashback and two other film connected movies so we have to wait till the 2nd part come out to understand the complete story.",
+    },
+    {
       name: "Sardar",
       poster:
         "https://www.filmibeat.com/img/popcorn/movie_posters/sardar-20220901165519-20078.jpg",
